@@ -5,6 +5,7 @@ Pijar Camp - Tugas Bonus CRUD
 Berikut halaman home
 ***********************
 ![image.png]( {https://raw.githubusercontent.com/taufik17/pijarcamp/main/home.png} )
+![alt text](https://raw.githubusercontent.com/taufik17/pijarcamp/main/home.png)
 
 
 Berikut halaman tambah
